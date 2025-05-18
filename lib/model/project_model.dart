@@ -11,11 +11,11 @@ List<Project> projectList = [
     'Hobla e-commerce application',
     'An e-commerce app with a commission system for marketers, allowing them to open accounts and market products.',
     'assets/images/coffee.png',
-    'https://play.google.com/store/apps/details?id=com.hobla.app&pcampaignid=web_share',
+    'https://apps.apple.com/dz/app/hobla/id6466740923?l=fr-FR',
   ),
   Project(
     'The Doctor-Bita',
-    ' An app connecting doctors and patients for appointment booking and health monitoring via a chat system.',
+    'An app connecting doctors and patients for appointment booking and health monitoring via a chat system.',
     'assets/images/car.png',
     'https://play.google.com/store/apps/details?id=com.betaAppdoctor.app&pcampaignid=web_share',
   ),
@@ -44,29 +44,19 @@ List<Project> projectList = [
       'It is a special application for tracking vehicles that contain tracking and remote control devices. Only the apk version is used for this application.',
       'assets/images/doctor.png',
       'https://drive.google.com/file/d/1mnxyawaBB8ybgRJT5Fx2WUHKewHQqgbh/view?usp=drivesdk'),
-  Project(
+  /*Project(
       'Matrix Delivery',
       'It is an application for inventory management linked to a desktop program for points of sale with distributors in order to carry out buying and selling operations and many other functions.Only the apk version is used for this application.',
       'assets/images/doctor.png',
       'https://drive.google.com/file/d/1mnxyawaBB8ybgRJT5Fx2WUHKewHQqgbh/view?usp=drivesdk'),
   Project(
-      'Monasire',
-      'A special application for national clubs and their followers, displaying matches according to teams and dates.',
+      'Matrix client',
+      'An application provided by point of sale owners to their customers.',
       'assets/images/chat.png',
-      'https://play.google.com/store/apps/details?id=com.moonassirApplication.app&pcampaignid=web_share'),
+      'https://play.google.com/store/apps/details?id=com.moonassirApplication.app&pcampaignid=web_share'),*/
   Project(
-      'Gift Shop',
+      'Taqwa',
       'An e-commerce application for a gift and clothing store.',
       'assets/images/cui.png',
-      'https://play.google.com/store/apps/details?id=com.giftshop.client'),
-  Project(
-      'Mazadi',
-      'An application for displaying properties offered in auctions affiliated with the National Chamber of Judicial Bailiffs',
-      'assets/images/player.png',
-      'https://play.google.com/store/apps/details?id=com.cnhj_mazad.app'),
-  Project(
-      'Huissier de justice',
-      'A special application for judicial bailiffs affiliated with the National Chamber of Judicial Reporters to exchange documents and information related to the court',
-      'assets/images/recipe.png',
-      'https://play.google.com/store/apps/details?id=com.huissier_justice.app&pcampaignid=web_share'),
+      'https://drive.google.com/file/d/16MP8xL35jhSHSD_01xZrzl53Nlu4xu6E/view?usp=sharing'),
 ];
